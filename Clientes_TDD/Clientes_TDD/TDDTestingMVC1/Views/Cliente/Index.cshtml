@@ -1,0 +1,113 @@
+﻿@model IEnumerable<TDDTestingMVC1.Models.Cliente>
+@{
+    ViewData["Title"] = "Cliente";
+}
+
+<h1>Administración de Cliente</h1>
+
+<!-- Mensajes de Éxito/Error -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <script>
+        Swal.fire({
+            title: "Eliminado",
+            text: "@TempData["SuccessMessage"]",
+            icon: "success"
+        });
+    </script>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <script>
+        Swal.fire({
+            title: "Error",
+            text: "@TempData["ErrorMessage"]",
+            icon: "error"
+        });
+    </script>
+}
+
+<div class="card">
+    <h5 class="card-header">Clientes</h5>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">@Html.DisplayNameFor(model => model.Codigo)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.Cedula)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.Apellidos)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.Nombres)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.FechaNacimiento)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.Mail)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.Telefono)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.Direccion)</th>
+                <th scope="col">@Html.DisplayNameFor(model => model.Estado)</th>
+                <th scope="col">Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                var deleteButtonId = $"btnDelete-{item.Cedula}";
+                var deleteFormId = $"deleteForm-{item.Cedula}";
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Codigo)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Cedula)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Apellidos)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FechaNacimiento)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Mail)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Telefono)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                    <td>
+                        <!-- Botón para editar -->
+                        <a asp-action="Edit" asp-route-cedula="@item.Cedula" class="btn btn-warning btn-sm" id="editButton_@item.Cedula">
+                            <i class="bi bi-pencil-square"></i> Editar
+                        </a>
+
+                        <!-- Botón para eliminar con SweetAlert -->
+                        <button type="button" id="@deleteButtonId" class="btn btn-danger btn-sm" onclick="confirmDelete('@deleteFormId')">
+                            <i class="bi bi-trash"></i> Eliminar
+                        </button>
+
+                        <!-- Formulario oculto para enviar la solicitud POST -->
+                        <form id="@deleteFormId" asp-action="Delete" asp-route-cedula="@item.Cedula" method="post" style="display:none;">
+                            @Html.AntiForgeryToken()
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p class="text-center">
+        <a asp-action="Create" id="btnCrearCliente" class="btn btn-success">
+            <i class="bi bi-person-plus-fill"></i> Crear Cliente
+        </a>
+    </p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    function confirmDelete(formId) {
+        Swal.fire({
+            title: "¿Estás seguro?",
+            text: "¡No podrás revertir esta acción!",
+            icon: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "#d33",
+            cancelButtonColor: "#3085d6",
+            confirmButtonText: "Sí, eliminar",
+            cancelButtonText: "Cancelar",
+            didOpen: () => {
+                // Agrega un ID al botón de confirmación después de que se abra el diálogo
+                const confirmButton = Swal.getConfirmButton();
+                confirmButton.id = "confirmDeleteButton";
+            }
+        }).then((result) => {
+            if (result.isConfirmed) {
+                document.getElementById(formId).submit();
+            }
+        });
+    }
+</script>

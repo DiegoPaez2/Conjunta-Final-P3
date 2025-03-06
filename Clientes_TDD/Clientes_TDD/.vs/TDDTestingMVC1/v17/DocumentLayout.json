@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\stepdefinitions\\gestiondeclientesstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\stepdefinitions\\gestiondeclientesstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\gestioncliente.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\gestioncliente.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\ingresarvalido.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\ingresarvalido.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8B9F49-65EC-4D01-97C3-11DD1ABEEBA9}|TestProject\\TestProject.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\testproject\\testcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8B9F49-65EC-4D01-97C3-11DD1ABEEBA9}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8B9F49-65EC-4D01-97C3-11DD1ABEEBA9}|TestProject\\TestProject.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\testproject\\testdemoqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8B9F49-65EC-4D01-97C3-11DD1ABEEBA9}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testdemoqa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\reports\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\reports\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\hools\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\hools\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\utilities\\webdribermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\utilities\\webdribermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\loguin.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\loguin.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\insert.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\insert.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\formulariocliente.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\formulariocliente.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\features\\areacirculo.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\features\\areacirculo.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\tddtestingmvc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\tddtestingmvc1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\data\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\data\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\reqnrolltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\reqnrolltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\models\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\reqnrolltest\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C1D588D-00CF-4D6D-8FD5-29173F60D497}|ReqnrollTest\\ReqnrollTest.csproj|solutionrelative:reqnrolltest\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Class1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReqnrollTest\\Features\\Class1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\WebApplication1\\Models\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Models\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\WebApplication1\\Models\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Models\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|c:\\users\\diego\\downloads\\clientes_tdd\\clientes_tdd\\tddtestingmvc1\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5981D9C1-B6B2-415F-B440-A052BC94FE33}|TDDTestingMVC1\\TDDTestingMVC1.csproj|solutionrelative:tddtestingmvc1\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Hools\\Hooks.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Hools\\Hooks.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Hools\\Hooks.cs",
+              "RelativeToolTip": "ReqnrollTest\\Hools\\Hooks.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:27:54.095Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionCliente.feature",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\GestionCliente.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\GestionCliente.feature",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\GestionCliente.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\GestionCliente.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-27T17:59:00.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionDeClientesStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\GestionDeClientesStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\StepDefinitions\\GestionDeClientesStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\GestionDeClientesStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTest\\StepDefinitions\\GestionDeClientesStepDefinitions.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:59:18.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IngresarValido.feature",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\IngresarValido.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\IngresarValido.feature",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\IngresarValido.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\IngresarValido.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-27T17:12:15.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestDemoqa.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TestProject\\TestDemoqa.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestDemoqa.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TestProject\\TestDemoqa.cs",
+              "RelativeToolTip": "TestProject\\TestDemoqa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:02:41.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestCliente.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TestProject\\TestCliente.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestCliente.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TestProject\\TestCliente.cs",
+              "RelativeToolTip": "TestProject\\TestCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:26:26.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExtentReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Reports\\ExtentReportManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Reports\\ExtentReportManager.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Reports\\ExtentReportManager.cs",
+              "RelativeToolTip": "ReqnrollTest\\Reports\\ExtentReportManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:27:23.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebDriberManager.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Utilities\\WebDriberManager.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Utilities\\WebDriberManager.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Utilities\\WebDriberManager.cs",
+              "RelativeToolTip": "ReqnrollTest\\Utilities\\WebDriberManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:28:17.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:55:49.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Cliente.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Models\\Cliente.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAvwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:16:08.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Loguin.feature",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Loguin.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\Loguin.feature",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Loguin.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\Loguin.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-25T16:20:38.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Insert.feature",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Insert.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\Insert.feature",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Insert.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\Insert.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-20T17:05:03.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormularioCliente.feature",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\FormularioCliente.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\FormularioCliente.feature",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\FormularioCliente.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\FormularioCliente.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-27T17:50:16.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AreaCirculo.feature",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\AreaCirculo.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\AreaCirculo.feature",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\AreaCirculo.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\AreaCirculo.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-18T17:57:29.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "ReqnrollTest\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:07:19.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TDDTestingMVC1.csproj",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\TDDTestingMVC1.csproj",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\TDDTestingMVC1.csproj",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\TDDTestingMVC1.csproj",
+              "RelativeToolTip": "TDDTestingMVC1\\TDDTestingMVC1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T17:06:25.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:44:05.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:58:00.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\WebApplication1\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\WebApplication1\\Models\\Cliente.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:59:28.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\WebApplication1\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\WebApplication1\\Models\\Pedido.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:59:45.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Pedido.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:08:33.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:19:34.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:15:06.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Data\\ClienteDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Data\\ClienteDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Data\\ClienteDataAccessLayer.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Data\\ClienteDataAccessLayer.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAwN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:54:36.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.feature",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Class1.feature",
+              "RelativeDocumentMoniker": "ReqnrollTest\\Features\\Class1.feature",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\Features\\Class1.feature",
+              "RelativeToolTip": "ReqnrollTest\\Features\\Class1.feature",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPtSURBVDhPdZTLb1RVHMc/59x75965M3Q6M31RYaBprVAgGDFUEQiIgroBV0JcmLjwsZIYXbnWP8CNe6NREiWEkJBAIo9EUwpINaANIW3pAzptmemUuXfmPo8LZvpK/K5Ozvn9Pud7zu\u002BXn\u002BD/9FU2yc7ERqAAdAAxMItiirt\u002BkW/K9fUpKKXEmo23gS9kiuHMfjr0Y9hydwNmNiLqKB5Ti\u002B8wEV7gu8ptFuLaaoS2vHrFlByze\u002Bg1j6OZH6DLAwLxghRyo0LlQeQ0obUJIbqUQYGs7KNV\u002BuxIlLBklelwHfBNu4s99hEqxococTCl27mBln6jJ71FVAOXjXYnu1sHhKWZiQWvlEOKXgpGmj7jMUtxkRHfWwG2ScFL5kEKxingiERqXVYHJwsnONy5j0l3hsH8Ht4rHEcpuFX\u002BC0ACW4EKs\u002BE0E\u002BEjHIUE4NOMzaB1CDgskKJFTxOoEEtLssUusCszwL62l9mgpwnVs6c1ZABH2W/t57MMADoAphhAFz2WtNLPb\u002BgRn2/7hBl3lofONL/P3\u002BBhbYYJd5JYKcaqD5uwZkE3gehDkAeePHMIvUB7RKQFKkAg6E52Ug4qDJfvMFad4GZphKEnt5lyZ5rAppIoOojZROMfAHKAHcQh816J4YU/KdbnqYYO1dDBCV3K/iJB7NNm5uhL99CWyKOJ5ZqmgLbVQAAEAhAEKmQxqOAEDrGKkQgkkqzZymvtezm15V0OtA9ia8lmqmx\u002BXxM4Bzi2nmRHpp/T/R/xRudBtqYLZPQMGaOFvJnFEhabk92803WE0/0fkzOzTWANKLPcNq8nJTltj1Jqey3yRLE\u002Bx7W5ITbbz3Go/VUSusne/IscaB/kaehw4dElhksj3K2M4sd\u002BCGqIcnyW32rOM4fXapOMB/\u002BEKpye8xY4P3OJ4dIdbD3JQGs/hjRIaSl2ZbYjkVyZ\u002B4PLs1dxQhdgmrHgAddqpRWHY6FHQbfoNfIK1VOP60ZCGqI72YUbu1yfG6ISLJHWU4y7k9yt/Es9ritQIair3PQv8qtzn1W9BO\u002BnWzhqv4UhvkSwA0hY0hKalMIJXQSShJYgVhFBHKjG9Cnix19zqfYLP1bnVxwCTIYBTjzLLvNeo0lbIxXZQRw2CqeIVUSkIhqwCvAtZ6oXuVybwVNqLdBTisWoTjleYJs5jsaDRuUMoH05DjzgPr76gTPVs9yoj1OK/ebhChDAUYpi6KGLKcaDCSRLZLUssBNwgSlgiCfRea7XznLZfUBJeasRa4E07v/bV4z4VTr0OtsS6cZUGQV1hXL8M7f8c3z/9BEe0fr0tRN7vU5uyHAitRnoBkYRUZFzrsdPzvrIZf0HlF2bQabSBKQAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-20T03:16:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Calculadora.cs",
+              "RelativeDocumentMoniker": "TDDTestingMVC1\\Models\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\TDDTestingMVC1\\Models\\Calculadora.cs",
+              "RelativeToolTip": "TDDTestingMVC1\\Models\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:10:04.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReqnrollTest.csproj",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\ReqnrollTest.csproj",
+              "RelativeDocumentMoniker": "ReqnrollTest\\ReqnrollTest.csproj",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\ReqnrollTest.csproj",
+              "RelativeToolTip": "ReqnrollTest\\ReqnrollTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T17:21:04.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "ReqnrollTest\\ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\diego\\Downloads\\Clientes_TDD\\Clientes_TDD\\ReqnrollTest\\ImplicitUsings.cs",
+              "RelativeToolTip": "ReqnrollTest\\ImplicitUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:03:26.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
